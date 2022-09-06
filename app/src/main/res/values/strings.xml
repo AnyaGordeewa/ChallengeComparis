@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Challenge Comparis</string>
+    <string name="counter">13</string>
+    <string name="navigate_to_list">navigate to list</string>
 </resources>

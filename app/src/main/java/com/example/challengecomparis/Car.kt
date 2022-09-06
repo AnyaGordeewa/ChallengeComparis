@@ -2,5 +2,5 @@ package com.example.challengecomparis
 
 data class Car(
     val carName: String,
-    val isFavourite: Boolean
+    val isFavourite: Boolean = false
 )
